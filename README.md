@@ -2,11 +2,11 @@
 
 # 👋 Hi, I'm Andrés
 
-Backend Developer | Electronician | Systems-Oriented Thinker
+Technical of Electronic | Software Developer
 
 ---
 
-## 🧠 About Me
+<h2 align="center">About Me</h2>
 
 I’m a Computer Science student focused on building efficient backend systems and exploring artificial intelligence.
 
@@ -18,7 +18,7 @@ I’m particularly interested in:
 
 ---
 
-## 🛠 Tech Stack
+<h2 aling="center">Tech Stack</h2>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -33,8 +33,7 @@ I’m particularly interested in:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-## 📊 GitHub Stats
+<h2 aling="center">GitHub Stats</h2>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=iamandydev&show_icons=true&theme=tokyonight)
 
@@ -42,7 +41,7 @@ I’m particularly interested in:
 
 ---
 
-## 📫 Connect with Me
+<h2 aling="center">Connect with Me</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
