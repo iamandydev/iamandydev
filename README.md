@@ -13,14 +13,16 @@
 
 
 <h2 align="center">Sobre mi</h2>
-A inicios del año 2018, empezé a interesarme por la creación de paginas web, creando pequeñas paginas basicas con Wix y blogger, pero eventualmente mi curiosidad por el tema me llevó eventualmente a dar el paso para empezar a aprender html, css y javascript.
-Desde entonces no e parado de aprender e investigar de manera autodidacta, acerca de todo lo relacionado al software y hardware.
+
+A inicios de _2018_ comencé a interesarme por la creación de páginas web, desarrollando pequeños sitios básicos con _Wix_ y _Blogger_. Con el tiempo, mi curiosidad por el desarrollo web creció y decidí dar el siguiente paso: aprender _HTML_, _CSS_ y _JavaScript_.
+
+Desde entonces no he dejado de aprender e investigar de forma _autodidacta_ sobre todo lo relacionado con software y hardware, profundizando tanto en fundamentos técnicos como en buenas prácticas de desarrollo.
 
 Me interesan especialmente:
 - Las arquitecturas backend seguras y escalables.
-- El código limpio y el diseño de sistemas.
-- La ingeniería de software centrada en la privacidad.
-- El diseño frontend y la UI
+- El código limpio y el diseño de sistemas bien estructurados.
+- La ingeniería de software centrada en la privacidad y la seguridad.
+- El diseño frontend y la creación de interfaces intuitivas y funcionales.
 
 ---
 
