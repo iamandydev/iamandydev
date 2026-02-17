@@ -1,7 +1,7 @@
 <img src="banner.png" alt="banner" width="100%" />
 <h1 align="center">👋 Hola, Soy Andy</h1>
 
-<p align="center">Tecnico Electronico | Software Developer</p>
+<p align="center">Tecnico Electrónico | Software Developer</p>
 
 <div align="center">
   
