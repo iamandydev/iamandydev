@@ -1,8 +1,8 @@
-<img src="TU_BANNER_URL" alt="banner" width="100%" />
+<img src="img/banner.png" alt="banner" width="100%" />
 
 # 👋 Hi, I'm Andrés
 
-Backend Developer | AI Enthusiast | Systems-Oriented Thinker
+Backend Developer | Electronician | Systems-Oriented Thinker
 
 ---
 
@@ -36,9 +36,9 @@ I’m particularly interested in:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=iamandydev&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamandydev&layout=compact&theme=tokyonight)
 
 ---
 
