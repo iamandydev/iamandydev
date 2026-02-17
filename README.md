@@ -1,11 +1,11 @@
 <img src="banner.png" alt="banner" width="100%" />
-<a align="center" href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=iamandydev&theme=tokyonight-duo" alt="GitHub Streak" />
-</a>
+<h1 align="center">👋 Hi, I'm Andrés</h1>
 
-# 👋 Hi, I'm Andrés
+<p align="center">Technical of Electronic | Software Developer</p>
 
-Technical of Electronic | Software Developer
+<div align="center">[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)</div>
+
 
 ---
 
@@ -35,8 +35,4 @@ I’m particularly interested in:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-
-<h2 aling="center">Connect with Me</h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iamandydev&theme=tokyonight-duo&hide_border=true&locale=es&card_width=800" alt="GitHub Streak" /></a>
