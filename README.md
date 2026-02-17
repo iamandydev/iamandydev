@@ -1,4 +1,7 @@
 <img src="banner.png" alt="banner" width="100%" />
+<a align="center" href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=iamandydev&theme=tokyonight-duo" alt="GitHub Streak" />
+</a>
 
 # 👋 Hi, I'm Andrés
 
@@ -32,14 +35,6 @@ I’m particularly interested in:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-<h2 aling="center">GitHub Stats</h2>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=iamandydev&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamandydev&layout=compact&theme=tokyonight)
-
----
 
 <h2 aling="center">Connect with Me</h2>
 
