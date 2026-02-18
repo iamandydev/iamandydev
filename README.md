@@ -24,7 +24,7 @@ Me interesan especialmente:
 - La ingeniería de software centrada en la privacidad y la seguridad.
 - El diseño frontend y la creación de interfaces intuitivas y funcionales.
 
----
+<br/>
 
 <h2 aling="center">Stack tecnologico</h2>
 
