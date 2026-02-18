@@ -26,7 +26,7 @@ Me interesan especialmente:
 
 <br/>
 
-<h2 aling="center">Stack tecnologico</h2>
+<h2 align="center">Stack tecnologico</h2>
 
 ### Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,php,md,java,c,cpp,bash)](https://skillicons.dev)
@@ -38,7 +38,7 @@ Me interesan especialmente:
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,postman,linux,windows,nodejs,mint,vercel,electron,arduino,atom)](https://skillicons.dev)
 <br>
 
-### Actividad
+<h2 align="center">Actividad reciente</h2>
 <div>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=iamandydev&theme=tokyonight-duo&hide_border=true&locale=es&card_width=800" alt="GitHub Streak" /></a>
   <br>
