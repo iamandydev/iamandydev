@@ -26,7 +26,7 @@ Me interesan especialmente:
 
 <br/>
 
-<h2 align="center">Stack tecnologico</h2>
+<h2 align="center">Stack tecnológico</h2>
 
 ### Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,py,php,md,java,c,cpp,bash)](https://skillicons.dev)
